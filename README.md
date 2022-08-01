@@ -9,6 +9,11 @@ Use the pico cscode build manager for platformio [pip](https://github.com/Wiz-IO
 PIO Home > Platforms > Advanced Installation
 paste https://github.com/Wiz-IO/wizio-pico
 INSTALL
+
+# include 
+git clone https://github.com/hmz06967/ozk-picoprobe.git
+cd ozk-picoprobe
+# and build platform io 
 ```
 
 ## Usage
